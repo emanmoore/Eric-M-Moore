@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>ERIC MOORE</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    
+    
   </head>
   <h1>ERIC MOORE</h1>
   
