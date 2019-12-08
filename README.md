@@ -5,6 +5,7 @@
     
  
   <h1>ERIC MOORE</h1>
+  <h2>ERIC MOORE</h2>
   
 
   <body>
