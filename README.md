@@ -1,9 +1,9 @@
-<!DOCTYPE html>
 
-  <head> Eric Moore
+
+ 
     
     
-  </head>
+ 
   <h1>ERIC MOORE</h1>
   
 
@@ -25,4 +25,3 @@
 
     
   </body>
-</html>
